@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LightingTalk", "LightingTalk\LightingTalk.fsproj", "{FA7C1536-F8AE-42E9-BB84-03FD49C9733E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA7C1536-F8AE-42E9-BB84-03FD49C9733E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7C1536-F8AE-42E9-BB84-03FD49C9733E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7C1536-F8AE-42E9-BB84-03FD49C9733E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7C1536-F8AE-42E9-BB84-03FD49C9733E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
